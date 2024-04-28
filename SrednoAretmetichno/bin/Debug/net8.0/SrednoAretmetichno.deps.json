@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SrednoAretmetichno/1.0.0": {
+        "runtime": {
+          "SrednoAretmetichno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SrednoAretmetichno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

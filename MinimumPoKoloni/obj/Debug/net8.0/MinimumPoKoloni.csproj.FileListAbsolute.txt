@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.exe
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.deps.json
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.runtimeconfig.json
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.dll
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.pdb
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.dll
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\net8.0\refint\MinimumPoKoloni.dll
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.pdb
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\net8.0\ref\MinimumPoKoloni.dll

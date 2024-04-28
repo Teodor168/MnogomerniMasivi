@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\bin\Debug\net8.0\SrednoAretmetichno.exe
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\bin\Debug\net8.0\SrednoAretmetichno.deps.json
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\bin\Debug\net8.0\SrednoAretmetichno.runtimeconfig.json
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\bin\Debug\net8.0\SrednoAretmetichno.dll
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\bin\Debug\net8.0\SrednoAretmetichno.pdb
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\obj\Debug\net8.0\SrednoAretmetichno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\obj\Debug\net8.0\SrednoAretmetichno.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\obj\Debug\net8.0\SrednoAretmetichno.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\obj\Debug\net8.0\SrednoAretmetichno.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\obj\Debug\net8.0\SrednoAretmetichno.dll
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\obj\Debug\net8.0\refint\SrednoAretmetichno.dll
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\obj\Debug\net8.0\SrednoAretmetichno.pdb
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\obj\Debug\net8.0\SrednoAretmetichno.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\MnogomerniMasivi\SrednoAretmetichno\obj\Debug\net8.0\ref\SrednoAretmetichno.dll

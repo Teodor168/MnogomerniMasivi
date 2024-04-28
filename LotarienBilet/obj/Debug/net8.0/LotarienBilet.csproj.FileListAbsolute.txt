@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\bin\Debug\net8.0\LotarienBilet.exe
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\bin\Debug\net8.0\LotarienBilet.deps.json
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\bin\Debug\net8.0\LotarienBilet.runtimeconfig.json
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\bin\Debug\net8.0\LotarienBilet.dll
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\bin\Debug\net8.0\LotarienBilet.pdb
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\obj\Debug\net8.0\LotarienBilet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\obj\Debug\net8.0\LotarienBilet.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\obj\Debug\net8.0\LotarienBilet.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\obj\Debug\net8.0\LotarienBilet.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\obj\Debug\net8.0\LotarienBilet.dll
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\obj\Debug\net8.0\refint\LotarienBilet.dll
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\obj\Debug\net8.0\LotarienBilet.pdb
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\obj\Debug\net8.0\LotarienBilet.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\MnogomerniMasivi\LotarienBilet\obj\Debug\net8.0\ref\LotarienBilet.dll
